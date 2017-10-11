@@ -26,6 +26,8 @@
 <h3>Links and Images</h3>
 <p>First I'm going to link to <a href="https://www.youtube.com/?hl=en-GB&gl=GB"> my favouritist website</a></p>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Doge_homemade_meme.jpg" />
+
 
 ### Jekyll Themes
 
