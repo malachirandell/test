@@ -1,9 +1,27 @@
-<h1>Welcome to my Nightmare</h1>
+<h1>Language Learning FUN</h1>
 <h2>Part 1: What you can learn here.</h2>
 <p> This is the first paragraph. It isn't very interesting at the moment</p>
 
 <hr>
+<h2>Some HTML Formatting stuff</h2>
+<h3>Lists</h3>
+<h4>Ordered Lists have Numbers</h4>
+<ol>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ol>
+<h4>Unordered Lists have bullets</h4>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
 
+<hr>
+
+<h3>Text Styles (Not related to Harry)</h3>
+<p>In this paragraph I am going to <u>underline this</u>, and then this is <strong>very important</strong>, and then this is <em>italicised for effect</em>. For example, <em>Oh NO!<em> he cried.</p>
+
+<hr>
 
 
 
