@@ -1,4 +1,4 @@
-<h1>Welcome to my Nightmare</h1>]
+<h1>Welcome to my Nightmare</h1>
 <h2>Part 1: What you can learn here.</h2>
 <p> This is the first paragraph. It isn't very interesting at the moment</p>
 
