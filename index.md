@@ -27,7 +27,7 @@
 <p>First I'm going to link to <a href="https://www.youtube.com/?hl=en-GB&gl=GB"> my favouritist website</a></p>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Doge_homemade_meme.jpg" />
-<img src="https://www.goodfreephotos.com/albums/vector-images/shark-eye-and-teeth-vector-clipart.png" />
+
 
 
 ### Jekyll Themes
