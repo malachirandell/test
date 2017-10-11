@@ -19,7 +19,7 @@
 <hr>
 
 <h3>Text Styles (Not related to Harry)</h3>
-<p>In this paragraph I am going to <u>underline this</u>, and then this is <strong>very important</strong>, and then this is <em>italicised for effect</em>. For example, <em>Oh NO!<em> he cried.</p>
+<p>In this paragraph I am going to <u>underline this</u>, and then this is <strong>very important</strong>, and then this is <em>italicised for effect</em>. For example, <em>Oh NO!<em> he cried. </p>
 
 <hr>
 
