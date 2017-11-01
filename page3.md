@@ -8,4 +8,4 @@
 
 <h1>Nah you're in the Wrong Place</h1>
 
-<img src="Images/Obama Meme.jpg" />
+
