@@ -17,3 +17,9 @@
 
 <h3>Be Careful, played backwards it has a secret message</h3>
 <iframe src="https://archive.org/embed/MyNameIsMalachi" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p>
+  <a style="float:left;" href="index.html">Back to Home</a>
+  <a style="float:right;" href="page4.html">Exercises</a>
+  </p>
+  <div style="clear:both;"></div>
