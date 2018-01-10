@@ -3,48 +3,41 @@
 </ul>
 
 <h1>Language Learning FUN</h1>
-<h2>Part 1: What you can learn here.</h2>
-<p> This is the first paragraph. It isn't very interesting at the moment</p>
+<h2>Let's Learn Some Basics</h2>
+<p>With this website, we'll be learning about some basic Spanish words </p>
 
 <hr>
-<h2>Some HTML Formatting stuff</h2>
-<h3>Lists</h3>
-<h4>Ordered Lists have Numbers</h4>
+<h2>Fun words you'll learn</h2>
+<h3>Colours</h3>
+
 <ol>
-  <li>Item 1</li>
-  <li>Item 2</li>
+  <li>Red</li>
+  <li>Green</li>
+  <li>Yellow</li>
+  <li>Blue</li>
+  <li>Pink</li>
+  <li>Purple</li>
 </ol>
-<h4>Unordered Lists have bullets</h4>
-<ul>
-  <li>Item 1</li>
-  <li>Item 2</li>
-</ul>
+<h4>Animals</h4>
+<ol>
+  <li>Dog</li>
+  <li>Cat</li>
+  <li>Bird</li>
+</ol>
 
 <hr>
 
-<h3>Text Styles (Not related to Harry)</h3>
-<p>In this paragraph I am going to <u>underline this</u>, and then this is <strong>very important</strong>, and then this is <em>italicised for effect</em>. For example, <em>Oh NO!</em> he cried. </p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Face-grin.svg/2000px-Face-grin.svg.png" />
 
 <hr>
 
-<h3>Links and Images</h3>
-<p>First I'm going to link to <a href="https://www.youtube.com/?hl=en-GB&gl=GB"> my favouritist website</a></p>
+<h3>Teachers Notes</h3>
+<p>This website contains a variety of activities for children to do which will help to teach them some basic vocabulary. Each part should contain a small explanation which the children can refer back to if they get stuck or you can use to help go over the points of learning. The link below will take you to an online Spanish dictionary which they can use as well if really stuck. Most importantly, let them have fun with it! </p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Doge_homemade_meme.jpg" />
+<p>Click this if really stuck, it will <a href="https://www.youtube.com/?hl=en-GB&gl=GB"> help</a> you lots</p>
 
-<table>
-  <tr>
-    <th>English Word</th>
-    <th>French Word</th>
-    <th>German Word</th>
-  </tr>
-  <tr>
-    <td>Table</td>
-    <td>La Table</td>
-    <td>Der Tisch</td>
-  </tr>
- 
-</table>
+
 
 ### Jekyll Themes
 
