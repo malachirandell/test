@@ -1,12 +1,13 @@
 <ul class="breadcrumb">
   <li><a href="index.html">Home</a></li>
-  <li><a href="page2.html">Page 2</a></li>
-  <li><a href="page3.html">Page 3</a></li>
-  <li>Page 4</li>
+  <li><a href="page2.html">Animals</a></li>
+  <li><a href="page3.html">Colours</a></li>
+  <li><a href="page6.html">Animals Exercises</a><li>
+  <li>Colours Exercises</li>
 </ul>
 
 
-<h1>Memory Exercise</h1>
+<h1>Colours Exercises</h1>
 
 <h3>Match the colour to the correct word in Spanish</h3>
 <h4>Challenge: Try to do it in as few turns as possible!</h4>
