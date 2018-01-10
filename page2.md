@@ -28,6 +28,8 @@
   </tr>
   </table>
   
+  <h4>Think you've got it? Now try out the exercises!</h4>
+  
 
 
 <p>
