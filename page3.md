@@ -1,22 +1,43 @@
 <ul class="breadcrumb">
   <li><a href="index.html">Home</a></li>
-  <li><a href="page2.html">Page 2</a></li>
-  <li>Page 3</li>
+  <li><a href="page2.html">Animals</a></li>
+  <li>Colours</li>
 </ul>
 
 
 
-<h1>Nah you're in the Wrong Place</h1>
+<h1>Colours - Los Colores</h1>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Av1l6q7jfrM?ecver=1" frameborder="0" gesture="media" allowfullscreen></iframe>
 
-<h2>Now Face the Wraith</h2>
-<iframe src="https://archive.org/embed/Paolo_201711" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<h2>All Colours Shown</h2>
+<p>Here are all the colours that have just been said in the video and what they mean</p>
 
+<table>
+  <tr>
+    <th>English Colour</th>
+    <th>Spanish Colour</th>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>Rojo</td>
+    <td>Blue</td>
+    <td>Azul</td>
+    <td>Yellow</td>
+    <td>Amarillo</td>
+    <td>Orange</td>
+    <td>Naranja</td>
+    <td>Pink</td>
+    <td>Rosa</td>
+    <td>Purple</td>
+    <td>Morado</td>
+  </tr>
+ 
+</table>
 
-<h3>Be Careful, played backwards it has a secret message</h3>
-<iframe src="https://archive.org/embed/MyNameIsMalachi" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<h4>There is an extra colour added in the exercises, see if you can spot it and learn that as well!</h4>
+
 
 <p>
   <a style="float:left;" href="index.html">Back to Home</a>
