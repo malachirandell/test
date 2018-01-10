@@ -2,7 +2,7 @@
   <li><a href="index.html">Home</a></li>
   <li><a href="page2.html">Animals</a></li>
   <li><a href="page3.html">Colours</a></li>
-  <li><a href="page6.html">Animals Exercises</a><li>
+  <li><a href="page6.html">Animals Exercises</a></li>
   <li>Colours Exercises</li>
 </ul>
 
