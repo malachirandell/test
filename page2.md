@@ -1,18 +1,12 @@
 <ul class="breadcrumb">
   <li><a href="index.html">Home</a></li>
-  <li>Page 2</li>
+  <li>Animals</li>
 </ul>
 
 
-<h1>Listening Exercise</h1>
+<p>
+  <a style="float:left;" href="index.html">Back to Home</a>
+  <a style="float:right;" href="page6.html">Exercises</a>
+  </p>
+  <div style="clear:both;"></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R03cqGg40GU?rel=0" frameborder="0" allowfullscreen></iframe>
-
-
-<iframe src="https://h5p.org/h5p/embed/136135" width="1090" height="1509" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-
-<img src="Images/Obama Meme.jpg" style="width:80%;"/>
-
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1syqs_ap2fj4CWltVwZb-fUpUuwMrlUHr" width="640" height="480"></iframe>
