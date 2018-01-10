@@ -9,6 +9,7 @@
 
 <p>Here's a fun little animation to help you remember the names of the animals</p>
 
+
 <table>
   <tr>
     <th>English Word</th>
@@ -27,6 +28,16 @@
     <td>Pájaro</td>
   </tr>
   </table>
+  
+  <h3>Some Extra Vocab</h3>
+  
+  <ul>
+  <li>Soy=I am</li>
+  <li>Me gusta=I like</li>
+  <li>Odio=I hate</li>
+  </ul>
+  
+  
   
   <h4>Think you've got it? Now try out the exercises!</h4>
   
