@@ -1,13 +1,18 @@
 <ul class="breadcrumb">
   <li><a href="index.html">Home</a></li>
-  <li><a href="page2.html">Page 2</a></li>
-  <li><a href="page3.html">Page 3</a></li>
-  <li><a href="page4.html">Page 4</a></li>
-  <li><a href="page5.html">Page 5</a></li>
-  <li>Page 6</li>
+  <li><a href="page2.html">Animals</a></li>
+  <li><a href="page3.html">Colours</a></li>
+  <li><a href="page4.html">Colours Exercises</a></li>
+  <li>Animals Exercises</li>
 </ul>
 
+<h1>Animals Exercises</h1>
 
 
 
 
+
+<p>
+  <a style="float:left;" href="page3.html">Back to Explanation</a>
+    </p>
+  <div style="clear:both;"></div>
