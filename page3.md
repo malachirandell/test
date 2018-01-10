@@ -22,14 +22,24 @@
   <tr>
     <td>Red</td>
     <td>Rojo</td>
+  </tr>
+  <tr>
     <td>Blue</td>
     <td>Azul</td>
+  </tr>
+  <tr>
     <td>Yellow</td>
     <td>Amarillo</td>
+    </tr>
+  <tr>
     <td>Orange</td>
     <td>Naranja</td>
+    </tr>
+  <tr>
     <td>Pink</td>
     <td>Rosa</td>
+  </tr>
+  <tr>
     <td>Purple</td>
     <td>Morado</td>
   </tr>
