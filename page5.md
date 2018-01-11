@@ -17,5 +17,9 @@
 <iframe src="https://h5p.org/h5p/embed/136164" width="1090" height="234" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
+<h4>Here's what it should sound like so you can check pronunciation</h4>
+<iframe src="https://archive.org/embed/FinalTest_201801" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<hr>
 
 <h1>Congratulations if you got them all right!</h1>
